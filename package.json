@@ -1,0 +1,23 @@
+{
+  "name": "ie-toolkit",
+  "version": "1.0.0",
+  "description": "industrial engineering diagrams with paper.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wira-pratama/ie-toolkit.git"
+  },
+  "keywords": [
+    "svg",
+    "diagrams"
+  ],
+  "author": "Adi Wira Pratama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wira-pratama/ie-toolkit/issues"
+  },
+  "homepage": "https://github.com/wira-pratama/ie-toolkit#readme"
+}
