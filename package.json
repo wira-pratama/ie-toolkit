@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wira-pratama/ie-toolkit/issues"
   },
-  "homepage": "https://github.com/wira-pratama/ie-toolkit#readme"
+  "homepage": "https://github.com/wira-pratama/ie-toolkit#readme",
+  "dependencies": {
+    "paper": "^0.12.18"
+  }
 }

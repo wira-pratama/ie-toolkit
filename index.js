@@ -1,4 +1,6 @@
-class AffinityDiagram {
+import * as paper from 'paper';
+
+export default class AffinityDiagram {
     constructor(items, startX, startY) {
         this.items = items;
         
